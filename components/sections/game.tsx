@@ -36,7 +36,7 @@ interface GameSectionProps {
 
 const MEMORIES = [
   'That first sunset, just you and me',
-  'The way you laugh when you don\'t even realize you\'re doing it.',
+  'The way you smile when you don\'t even realize you\'re doing it.',
   'That moment I thought: oh… this is different.',
   'Every time you made an ordinary day better.',
   'Somehow, without trying, you became my favorite part.',
